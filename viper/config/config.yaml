@@ -1,0 +1,10 @@
+
+server:
+  port: "3333"
+  name: "test"
+  database:
+    passsword: "postgres"
+
+
+
+
